@@ -138,8 +138,8 @@ n			!print_var_28 - user defined (y to print; n to not)
 n			!print_var_29 - user defined (y to print; n to not)
 n			!print_var_30 - user defined (y to print; n to not)
 450.0			!ro_snowmax - maximum snow density (model default = 550.0)
-5.0			!ro_adjust - density adjustment factor (default is 5)
-0.7999999999999999			!cf_precip_scalar -  constant precip factor (when cf_precip__flag=3)
+4.0			!ro_adjust - density adjustment factor (default is 5)
+0.7			!cf_precip_scalar -  constant precip factor (when cf_precip__flag=3)
 2.0			!T_threshold - rain / snow threshold, a la Auer. (recommend 2.0)
 -.5667,2.7667			!T_Left, T_Right - bounding values for linear ramp for rain/snow
 4.4,5.9,7.1,7.8,8.1,8.2,8.1,8.1,7.7,6.8,5.5,4.7			!lapse_rate - temp lapse rate
