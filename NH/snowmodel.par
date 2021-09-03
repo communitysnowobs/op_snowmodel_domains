@@ -61,7 +61,7 @@ topo_vege/NoAm_30m/topo_vege.gdat
 3.0			!snowfall_frac - 1 for Auer, 2 for Dai, 3 for Liston
 0.0			!wind_lapse_rate - multiplier for increasing wind speeds
 1.0			!calc_subcanopy_met - 1 for sub canopy values; 0 for above canopy
-0.0			!gap_frac - canopy gap fraction
+0.4			!gap_frac - canopy gap fraction
 1.0			!cloud_frac_factor - 1 for normal, lower to decrease cloud fraction
 0.0			!use_shortwave_obs - 0 for model computed radiation, 1 for data
 0.0			!use_longwave_obs - 0 for model computed radiation, 1 for data
@@ -137,7 +137,7 @@ n			!print_var_27 - user defined (y to print; n to not)
 n			!print_var_28 - user defined (y to print; n to not)
 n			!print_var_29 - user defined (y to print; n to not)
 n			!print_var_30 - user defined (y to print; n to not)
-450.0			!ro_snowmax - maximum snow density (model default = 550.0)
+400.0			!ro_snowmax - maximum snow density (model default = 550.0)
 6.0			!ro_adjust - density adjustment factor (default is 5)
 0.6			!cf_precip_scalar -  constant precip factor (when cf_precip__flag=3)
 2.0			!T_threshold - rain / snow threshold, a la Auer. (recommend 2.0)
