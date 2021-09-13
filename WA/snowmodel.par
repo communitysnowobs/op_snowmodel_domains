@@ -1,8 +1,8 @@
-2057			!nx - grid cells in east/west direction
-2668			!ny - grid cells in north/south direction
+2052			!nx - grid cells in east/west direction
+2446			!ny - grid cells in north/south direction
 50			!deltax - grid spacing in e/w (m)
 50			!deltay - grid spacing in n/s (m)
-638950			!xmn - x location of lower left grid cell center (m)
+639200			!xmn - x location of lower left grid cell center (m)
 5299100			!ymn - y location of lower left grid cell center (m)
 21600			!dt - model time step (s)
 2011			!iyear_init - start year
