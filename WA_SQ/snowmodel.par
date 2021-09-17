@@ -148,3 +148,6 @@ n			!print_var_30 - user defined (y to print; n to not)
 ../../CSOdmn/WA_SQ/grid_lat_WA_SQ.asc
 ../../CSOdmn/WA_SQ/grid_lon_WA_SQ.asc
 ../../CSOdmn/WA_SQ/snowmodel_line_pts.dat
+4                 !ctlflag - sets which spatial grid is used in ctl output
+3.0,2.5,2.5,1.5,1.0 !vlai_summer (5 values needed)
+3.0,0.5,1.5,1.5,1.0   !vlai_winter (5 values needed)

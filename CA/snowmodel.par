@@ -149,3 +149,5 @@ extra/grid_lat_CA.asc
 extra/grid_lon_CA.asc                                                                                                   
 extra_met/snowmodel_line_pts.dat                                                                                        
 4                 !ctlflag - sets which spatial grid is used in ctl output                                              
+1.8,2.5,2.5,1.5,1.0 !vlai_summer (5 values needed)
+1.8,0.5,1.5,1.5,1.0   !vlai_winter (5 values needed)
